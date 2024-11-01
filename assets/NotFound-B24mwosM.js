@@ -1,0 +1,1 @@
+import{_ as n,c as r,a as s,b as e,d as a,w as c,r as d,o as l}from"./index-DUHHapzL.js";const _={},p={class:"page"};function i(u,t){const o=d("router-link");return l(),r("div",p,[s("p",null,[t[1]||(t[1]=e(" Oops, không thể tìm thấy trang. Trở về ")),a(o,{to:"/"},{default:c(()=>t[0]||(t[0]=[e(" trang chủ. ")])),_:1})])])}const m=n(_,[["render",i]]);export{m as default};
